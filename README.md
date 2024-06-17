@@ -4,7 +4,7 @@ I'm a Systems Design Engineering student at the University of Waterloo, currentl
 
 💻 Seeking Opportunities In & Passionate About: 
 - Software Development
-- Product Operations & Management
+- Product Management & Operations
 - UI/UX
 
 📫 Connect with me: 
