@@ -1,5 +1,17 @@
-## Hi there 👋
+## Hi, I'm Arya Patel! 👋
 
+I'm a Systems Design Engineering student at the University of Waterloo, seeking Fall 2024 Internships!
+
+💻 Seeking Opportunities In & Passionate About: 
+- Software Development
+- Product Operations & Management
+- UI/UX
+
+📫 Connect with me: 
+- Email: arya.patel@uwaterloo.ca
+- Website: https://aryapatel.pages.dev
+- LinkedIn: https://www.linkedin.com/in/aryapatel14/
+- 
 <!--
 **aryapatel14/aryapatel14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
