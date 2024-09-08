@@ -1,6 +1,6 @@
 ## Hi, I'm Arya Patel! 👋
 
-I'm a Systems Design Engineering student at the University of Waterloo, currently seeking Fall 2024 Internship opportunities!
+I'm a Systems Design Engineering student at the University of Waterloo, currently seeking Summer 2025 Internship opportunities!
 
 💻 Seeking Opportunities In & Passionate About: 
 - Software Development
