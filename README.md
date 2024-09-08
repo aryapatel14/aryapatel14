@@ -9,7 +9,6 @@ I'm a Systems Design Engineering student at the University of Waterloo, currentl
 
 📫 Connect with me: 
 - Email: arya.patel@uwaterloo.ca
-- Website: https://aryapatel.pages.dev
 - LinkedIn: https://www.linkedin.com/in/aryapatel14/
   
 <!--
