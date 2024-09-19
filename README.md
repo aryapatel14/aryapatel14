@@ -8,6 +8,7 @@ I'm a Systems Design Engineering student at the University of Waterloo, currentl
 - UI/UX (Design & Research)
 
 📫 Connect with me: 
+- Website: [aryapatel.me](https://www.aryapatel.me/)
 - Email: arya.patel@uwaterloo.ca
 - LinkedIn: https://www.linkedin.com/in/aryapatel14/
   
