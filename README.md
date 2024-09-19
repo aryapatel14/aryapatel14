@@ -2,7 +2,7 @@
 
 I'm a Systems Design Engineering student at the University of Waterloo, currently seeking Summer 2025 Internship opportunities!
 
-💻 Seeking Opportunities In & Passionate About: 
+🚀 Seeking Opportunities In & Passionate About: 
 - Software Development
 - Product Management & Operations
 - UI/UX (Design & Research)
