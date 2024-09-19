@@ -5,7 +5,7 @@ I'm a Systems Design Engineering student at the University of Waterloo, currentl
 💻 Seeking Opportunities In & Passionate About: 
 - Software Development
 - Product Management & Operations
-- UI/UX
+- UI/UX (Design & Research)
 
 📫 Connect with me: 
 - Email: arya.patel@uwaterloo.ca
